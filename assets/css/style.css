@@ -64,3 +64,79 @@ h1, h2, h3, h4 {
     width: 100%;
     background: url(../images/Hero\ Image.lnk) no-repeat center center;
 }
+
+/* main section */
+
+#main-section {
+    height: 700px;
+}
+
+#main-section, h1 {
+    text-align: center;
+    color: #3a3a3a;
+    font-family: Barlow, sans-serif;
+    font-size: 45px;
+    margin-top: auto;
+}
+
+.row {
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+    padding-top: 25px;
+}
+
+.row, h2, h3, h4 {
+    text-align: left;
+    font-size: 30px;
+    color: #3a3a3a;
+    margin-top: auto;
+}
+
+p {
+    font-family: sans-serif;
+    font-size: large;
+    margin-right: auto;
+    width: 80%;
+    text-align: justify;
+}
+
+.about us {
+    height: 470px;
+    width: 33%;
+    display: table-cell;
+}
+
+.our services {
+    height: 470px;
+    width: 33%;
+    display: table-cell;
+}
+
+.testimonials {
+    height: 470px;
+    width: 33%;
+    display: table-cell;
+}
+
+
+/* footer */
+
+footer {
+    height: 150px;
+}
+
+.social-media {
+    text-align: center;
+}
+
+.social-media > li {
+    display: inline;
+}
+
+.social-media i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
+}
