@@ -62,7 +62,7 @@ h1, h2, h3, h4 {
 #hero-image {
     height: 600px;
     width: 100%;
-    background: url(../images/Hero\ Image.lnk) no-repeat center center;
+    background: url(../images/hero\ img.jpg) no-repeat center center;
 }
 
 /* main section */
@@ -101,13 +101,13 @@ p {
     text-align: justify;
 }
 
-.about us {
+.about {
     height: 470px;
     width: 33%;
     display: table-cell;
 }
 
-.our services {
+.services {
     height: 470px;
     width: 33%;
     display: table-cell;
