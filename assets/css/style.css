@@ -105,24 +105,42 @@ p {
     margin-right: auto;
     width: 80%;
     text-align: justify;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
 }
 
 .about {
     height: 470px;
     width: 33%;
     display: table-cell;
+    background-color: lavender;
+    padding-top: 25px;
+    padding-left: 50px;
+    border-color: white;
+    border-style: double;
 }
 
 .services {
     height: 470px;
     width: 33%;
     display: table-cell;
+    background-color: aliceblue;
+    padding-top: 25px;
+    padding-left: 50px;
+    border-color: white;
+    border-style: double;
 }
 
-.testimonials {
+.testimonies {
     height: 470px;
     width: 33%;
     display: table-cell;
+    background-color: blanchedalmond;
+    padding-top: 25px;
+    padding-left: 50px;
+    border-color: white;
+    border-style: double;
 }
 
 
@@ -146,3 +164,4 @@ footer {
     padding: 5%;
     color: #3a3a3a;
 }
+
