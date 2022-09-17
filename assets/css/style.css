@@ -245,7 +245,28 @@ input[type=submit] {
 @media screen and (max-width:914px) {
 }
 
-/* responsivness below 320px */
+/* responsivness at 320px */
 
 @media screen and (max-width:320px) {
+
+#logo {
+
+    font-size: 120%;
+    float: none;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 8px;
+    margin-left: 10px;
+}
+
+#photos {
+    display: grid;
+}
+
+.social-media i {
+    font-size: 120%;
+}
 }
