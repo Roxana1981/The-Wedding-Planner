@@ -71,7 +71,7 @@ h4 {
 
 #hero-image {
     height: 600px;
-    width: 100%;
+    max-width: 100%;
     background: url(../images/heroimg.jpg) no-repeat center center;
 }
 
@@ -248,7 +248,7 @@ input[type=submit] {
 
 /* Responsivness below 1200px */
 
-@media screen and (max-width:1200px) {}
+@media screen and (max-width:1200px) {
 
 /* Homepage */
 
@@ -256,49 +256,51 @@ input[type=submit] {
     font-size: 25px;
     padding-top: 35px;
 }
+}
 
 /* Responsivness below 1024px */
 
-@media screen and (max-width:1024px) {}
+@media screen and (max-width:1024px) {
 
 /* Homepage */
 
 .row p {
     font-size: 25px;
     padding-top: 35px;
+}
 }
 
 /* Responsivness below 914px */
 
 @media screen and (max-width:914px) {
 
-    /* Homepage */
+/* Homepage */
 
-    #logo {
+#logo {
 
-        font-size: 200%;
-        float: left;
-    }
+    font-size: 200%;
+    float: left;
+}
 
-    #menu li {
-        float: right;
-        list-style-type: none;
-        margin-right: 8px;
-        margin-left: 10px;
-    }
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 8px;
+    margin-left: 10px;
+}
 
-    h2.slogan {
-        font-size: 30px;
-    }
+h2.slogan {
+    font-size: 30px;
+}
 
-    .row p {
-        font-size: 20px;
-        padding-top: 30px;
-    }
+.row p {
+    font-size: 20px;
+    padding-top: 30px;
+}
 
-    .row h3 {
-        font-size: 20px;
-    }
+.row h3 {
+    font-size: 20px;
+}
 
 }
 
@@ -306,92 +308,133 @@ input[type=submit] {
 /* Responsivness below 740px */
 @media screen and (max-width:740px) {
 
-    /* Homepage */
+/* Homepage */
 
-    #menu li {
-        float: right;
-        list-style-type: none;
-        margin-right: 8px;
-        margin-left: 0px;
-    }
+#logo {
+    float: none;
+}
 
-    .row p {
-        font-size: 18px;
-        padding-top: 15px;
-    }
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 8px;
+    margin-left: 0px;
+}
 
-    #photos {
-        display: grid;
-    }
+.row {
+    display: inline-grid;
+    width: 100%;
+}
+
+.row h3 {
+    padding-left: 30px;
+}
+
+.row p {
+    font-size: 18px;
+    padding-top: 15px;
+    padding-left: 30px;
+}
+
+#photos {
+    display: grid;
+}
+
+.about {
+    width: 100%;
+    padding-left: 0;
+}
+
+.services {
+    width: 100%;
+    padding-left: 0;
+}
+
+.testimonies {
+    width: 100%;
+    padding-left: 0;
+}
+
+.contact {
+    margin-top: 60px;
+}
+
+.contact-form {
+    margin: 60px 10% 0 0;
+}
+
 }
 
 /* Responsivness at 320px */
 
 @media screen and (max-width:320px) {
 
-    /* Homepage */
+/* Homepage */
 
-    h2.slogan {
-        font-size: 20px;
-    }
+h2.slogan {
+     font-size: 20px;
+}
 
-    .row {
-        display: inline-grid;
-        width: 255%;
-    }
+.row {
+    display: inline-grid;
+    width: 255%;
+}
 
-    .row h3 {
-        font-size: 20px;
-    }
+.row h3 {
+    font-size: 20px;
+}
 
-    .row p {
-        font-size: 18px;
-        padding-top: 15px;
-    }
+.row p {
+    font-size: 18px;
+    padding-top: 15px;
+}
 
-    /* Gallery page */
+.contact-form {
+    margin: 60px 10% 0 0;
+}
 
-    #logo {
+/* Gallery page */
 
-        font-size: 120%;
-        float: none;
-    }
+#logo {
 
-    #menu li {
-        float: right;
-        list-style-type: none;
-        margin-right: 8px;
-        margin-left: 10px;
-    }
+    font-size: 120%;
+    float: none;
+}
 
-    #photos {
-        display: grid;
-    }
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 8px;
+    margin-left: 10px;
+}
 
-    .social-media i {
-        font-size: 120%;
-    }
+#photos {
+     display: grid;
+}
 
-    /* Contact Us page */
+.social-media i {
+    font-size: 120%;
+}
 
-    .contact {
-        margin-top: 75px;
-    }
+/* Contact Us page */
 
-    .contact-form {
-        max-width: 250px;
-        padding: 5px;
-    }
+.contact {
+    margin-top: 75px;
+}
 
-    .contact-form h3 {
-        font-size: 25px;
-        text-align: center;
-    }
+.contact-form {
+    max-width: 250px;
+    padding: 5px;
+}
 
-    p.formmessage {
-        font-size: 20px;
-        padding-left: 20px;
-        text-align: justify;
-    }
+.contact-form h3 {
+    font-size: 25px;
+    text-align: center;
+}
 
+p.formmessage {
+    font-size: 20px;
+    padding-left: 20px;
+    text-align: justify;
+}
 }
