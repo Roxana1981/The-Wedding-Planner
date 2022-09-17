@@ -311,7 +311,7 @@ h2.slogan {
 /* Homepage */
 
 #logo {
-    float: none;
+    margin-left: 10px;
 }
 
 #menu li {
