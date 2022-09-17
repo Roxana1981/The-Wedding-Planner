@@ -251,6 +251,26 @@ input[type=submit] {
 
 /* homepage */
 
+h2.slogan {
+    font-size: 20px;
+}
+
+.row {
+    display: inline-grid;
+    width: 255%;
+}
+
+.row h3 {
+    font-size: 20px;
+}
+
+.row p {
+    font-size: 18px;
+    padding-top: 15px;
+}
+
+
+
 /* gallery page */
 
 #logo {
