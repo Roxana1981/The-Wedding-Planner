@@ -310,6 +310,10 @@ h2.slogan {
     font-size: 18px;
     padding-top: 15px;
     }
+
+#photos {
+    display: grid;
+    }
 }
 
 
