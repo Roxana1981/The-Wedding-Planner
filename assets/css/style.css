@@ -243,6 +243,35 @@ input[type=submit] {
 /* responsivness below 914px */
 
 @media screen and (max-width:914px) {
+
+/* homepage */
+
+#logo {
+
+    font-size: 200%;
+    float: left;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 8px;
+    margin-left: 10px;
+}
+
+h2.slogan {
+    font-size: 30px;
+}
+
+.row p {
+    font-size: 20px;
+    padding-top: 30px;
+}
+
+.row h3 {
+    font-size: 20px;
+}
+
 }
 
 /* responsivness at 320px */
