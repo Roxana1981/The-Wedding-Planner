@@ -235,9 +235,28 @@ input[type=submit] {
 
 /* media queries */
 
+/* responsivness below 1200px */
+
+@media screen and (max-width:1200px) {
+}
+
+/* homepage */
+
+.row p {
+    font-size: 25px;
+    padding-top: 35px;
+}
+
 /* responsivness below 1024px */
 
 @media screen and (max-width:1024px) {
+}
+
+/* homepage */
+
+.row p {
+    font-size: 25px;
+    padding-top: 35px;
 }
 
 /* responsivness below 914px */
