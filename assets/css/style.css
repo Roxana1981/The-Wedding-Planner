@@ -232,3 +232,20 @@ input[type=submit] {
     padding-bottom: 20px;
     padding-top: 20px;
 }
+
+/* media queries */
+
+/* responsivness below 1024px */
+
+@media screen and (max-width:1024px) {
+}
+
+/* responsivness below 914px */
+
+@media screen and (max-width:914px) {
+}
+
+/* responsivness below 320px */
+
+@media screen and (max-width:320px) {
+}
