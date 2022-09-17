@@ -297,7 +297,21 @@ h2.slogan {
 /* responsivness below 740px */
 @media screen and (max-width:740px) {
 
+/* homepage */
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 8px;
+    margin-left: 0px;
+    }
+
+.row p {
+    font-size: 18px;
+    padding-top: 15px;
+    }
 }
+
 
 /* responsivness at 320px */
 
