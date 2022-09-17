@@ -13,7 +13,7 @@ body {
    
 }
 
-/* headings and logo */
+/* Headings and logo */
 
 h1, h2, h3, h4 {
     font-family: Barlow, sans-serif;
@@ -27,7 +27,7 @@ h1, h2, h3, h4 {
     font-size: 280%;
 }
 
-/* navigation links */
+/* Navigation links */
 
 #menu {
     font-size: 110%;
@@ -57,7 +57,7 @@ h1, h2, h3, h4 {
     border-bottom: 1px solid #3a3a3a;
 }
 
-/* hero image */
+/* Hero image */
 
 #hero-outer {
     height: 600px;
@@ -68,10 +68,10 @@ h1, h2, h3, h4 {
 #hero-image {
     height: 600px;
     width: 100%;
-    background: url(../images/hero\ img.jpg) no-repeat center center;
+    background: url(../images/heroimg.jpg) no-repeat center center;
 }
 
-/* main section */
+/* Main section */
 
 #main-section {
     height: 700px;
@@ -152,7 +152,7 @@ p {
 }
 
 
-/* footer */
+/* Footer */
 
 footer {
     height: 150px;
@@ -173,7 +173,7 @@ footer {
     color: #3a3a3a;
 }
 
-/* gallery */
+/* Gallery */
 
 #photos {
     clear: both;
@@ -185,6 +185,8 @@ footer {
 #photos > img {
     width: 100%;
 }
+
+/* Contact Us page */
 
 .contact {
     clear: left;
@@ -233,37 +235,37 @@ input[type=submit] {
     padding-top: 20px;
 }
 
-/* media queries */
+/* Media queries */
 
-/* responsivness below 1200px */
+/* Responsivness below 1200px */
 
 @media screen and (max-width:1200px) {
 }
 
-/* homepage */
+/* Homepage */
 
 .row p {
     font-size: 25px;
     padding-top: 35px;
 }
 
-/* responsivness below 1024px */
+/* Responsivness below 1024px */
 
 @media screen and (max-width:1024px) {
 }
 
-/* homepage */
+/* Homepage */
 
 .row p {
     font-size: 25px;
     padding-top: 35px;
 }
 
-/* responsivness below 914px */
+/* Responsivness below 914px */
 
 @media screen and (max-width:914px) {
 
-/* homepage */
+/* Homepage */
 
 #logo {
 
@@ -294,10 +296,10 @@ h2.slogan {
 }
 
 
-/* responsivness below 740px */
+/* Responsivness below 740px */
 @media screen and (max-width:740px) {
 
-/* homepage */
+/* Homepage */
 
 #menu li {
     float: right;
@@ -316,12 +318,11 @@ h2.slogan {
     }
 }
 
-
-/* responsivness at 320px */
+/* Responsivness at 320px */
 
 @media screen and (max-width:320px) {
 
-/* homepage */
+/* Homepage */
 
 h2.slogan {
     font-size: 20px;
@@ -341,9 +342,7 @@ h2.slogan {
     padding-top: 15px;
 }
 
-
-
-/* gallery page */
+/* Gallery page */
 
 #logo {
 
@@ -366,7 +365,7 @@ h2.slogan {
     font-size: 120%;
 }
 
-/* contact us page */
+/* Contact Us page */
 
 .contact {
     margin-top: 75px;
