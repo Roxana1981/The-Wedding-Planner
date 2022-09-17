@@ -249,6 +249,10 @@ input[type=submit] {
 
 @media screen and (max-width:320px) {
 
+/* homepage */
+
+/* gallery page */
+
 #logo {
 
     font-size: 120%;
@@ -269,4 +273,27 @@ input[type=submit] {
 .social-media i {
     font-size: 120%;
 }
+
+/* contact us page */
+
+.contact {
+    margin-top: 75px;
+}
+
+.contact-form {
+    max-width: 250px;
+    padding: 5px;
+}
+
+.contact-form h3 {
+    font-size: 25px;
+    text-align: center;
+}
+
+p.formmessage {
+    font-size: 20px;
+    padding-left: 20px;
+    text-align: justify;     
+}
+
 }
