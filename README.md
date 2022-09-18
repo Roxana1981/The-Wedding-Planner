@@ -3,6 +3,7 @@
 
 The purpose of [this site](https://roxana1981.github.io/The-Wedding-Planner/index.html) is to provide end users with information about **The Wedding Planner** team, services offered, pictures of previous events, testimonies from customers and a contact section to engage with potential customers.
 
+
 ![Multidevice view](assets/readmeimg/multiscreen.jpg)
 
 ## Project Background
@@ -19,9 +20,9 @@ Being a commercial website, the aim is to attract potential customers and let th
 ## Website design 
 **The Wedding Planner** is a website thought to be easy to navigate and visually appealing.  
 
--**Structure**: It consists of 3 pages (Homepage, gallery, and a “Contact Us” page), with a navigational bar and footer to access social media channels in separate tabs.
+-**Structure**: It consists of 3 pages (Homepage, Gallery, and a Contact Us page), with a navigational bar and footer to access social media channels in separate tabs.
 
--**Colours and background**: Colours of the page are mainly white, light grey and pastel shades, which compliment well with the hero/main image of the site as well as with the gallery photos and image used as background of the “Contact Us” page.  Colours and background of the site are taught to be of a relaxing shade and elegant.
+-**Colours and background**: Colours of the page are mainly white, light grey and pastel shades, which compliment well with the hero/main image of the site as well as with the gallery photos and image used as background of the Contact Us page.  Colours and background of the site are taught to be of a relaxing shade and elegant.
 
 -**Typography**: Font Barlow imported from Google Fonts. 
 
@@ -31,8 +32,8 @@ Being a commercial website, the aim is to attract potential customers and let th
 
 **Navigation bar**
 
-The navigation bar consists of the name of the company at the top left and links to the "Gallery" and “Contact Us” pages.  
-End users can go back to the homepage through the company logo or through the homepage link.
+The navigation bar consists of the name of the company at the top left and links to the Gallery and Contact Us pages.  
+End users can return to the homepage through the company logo or through the Home link.
 
 ![Navbar](assets/readmeimg/navbar.jpg)
 
@@ -42,7 +43,7 @@ The main image in the homepage has embedded an audio control bar at the top left
 
 **Main section**
 
-The main section of the homepage contains the slogan of the brand "Your dream wedding under the sun of Spain" and three key sections which contain "About us", "Services" and "Testimonies" about the company.
+The main section of the homepage contains the slogan of the brand "Your dream wedding under the sun of Spain" and three key sections which contain "About us", "Services" and "Testimonies".
 
 ![Mainsection](assets/readmeimg/mainsection.jpg)
 
@@ -54,7 +55,7 @@ The footer reflects the icons for end users to visit the brand's Facebook, Insta
 
 ### Gallery
 
-This page reflects a collection of photos from differents events.  Photos have been carefully chosen in order to mantain a similar esthetic of the main image in the homepage.  End users can access to the "Gallery" through the navigation bar.
+This page reflects a collection of photos from differents events.  Photos have been carefully chosen in order to mantain a similar esthetic of the main image in the homepage.  End users can access to the Gallery through the navigation bar.
 
 ![Gallery](assets/readmeimg/gallery.jpg)
 
@@ -138,7 +139,7 @@ HTML and CSS code were validated through W3C, Jigsaw and Lighthouse validators t
 
 ![Lighthousedesktop](assets/readmeimg/lighthousedesktop.jpg)
 
--  For mobilephone:
+-  For mobile:
 
 ![Lighthousemobile](assets/readmeimg/lighthousemobile.jpg)
 
@@ -170,7 +171,7 @@ Inspiration for the theme of the website came from the following businesses of w
 **Code**
 
 The development of the website was inspired by Love Running project of the Code Institute.  
-Throughout the development of the project, the below resourses were accessed to assist me with some the code:
+Throughout the development of the project, the below resources were accessed to assist me with some of the code:
 
 -[Audio to a webpage tutorial](https://www.youtube.com/watch?v=d5cHhIv35HI)
 
@@ -185,7 +186,7 @@ https://www.pexels.com/@gillian-harrison-3071696/
 
 **Audio**
 
--Look Both Ways by Nathan Moore sourced from Youtube studio.  No copyright music.
+Look Both Ways by Nathan Moore sourced from Youtube studio.  No copyright music.
 
 ## Acknowledgements
 
