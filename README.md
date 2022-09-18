@@ -46,4 +46,10 @@ The footer reflects the icons for end users to visit the brand's Facebook, Insta
 
 ![Footer](assets/readmeimg/footer.jpg)
 
+### Gallery
+
+This page reflects a collection of photos from differents events.  Photos have been carefully chosen in order to mantain a similar esthetic of the main image in the homepage.  End users can access to the "Gallery" through the navigation bar.
+
+![Gallery](assets/readmeimg/gallery.jpg)
+
 
