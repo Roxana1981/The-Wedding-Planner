@@ -42,7 +42,7 @@ The main section of the homepage contains the slogan of the brand "Your dream we
 
 **Footer**
 
-The footer reflects the icons for end users to visit the brand's Facebook, Instagram and Youtube accounts.  Each of them opening in new browser windows.
+The footer reflects the icons for end users to visit the brand's Facebook, Instagram and Youtube accounts.  Each of them opening in new browser windows.  Social media links in the footer can be accessed in each of the website pages.
 
 ![Footer](assets/readmeimg/footer.jpg)
 
@@ -51,5 +51,15 @@ The footer reflects the icons for end users to visit the brand's Facebook, Insta
 This page reflects a collection of photos from differents events.  Photos have been carefully chosen in order to mantain a similar esthetic of the main image in the homepage.  End users can access to the "Gallery" through the navigation bar.
 
 ![Gallery](assets/readmeimg/gallery.jpg)
+
+### Contact Us
+
+This page of the website contains a contact form for the company to engage with end users.  The contact form includes the following sections: first name, last name, telephone, email, wedding date, message and a submit button.  
+The photo used as background of this page and colours of the contact form follow the style and esthetic of the website. 
+
+![Contactus](assets/readmeimg/contactus.jpg)
+
+
+
 
 
