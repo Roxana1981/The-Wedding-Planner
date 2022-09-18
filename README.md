@@ -59,6 +59,16 @@ The photo used as background of this page and colours of the contact form follow
 
 ![Contactus](assets/readmeimg/contactus.jpg)
 
+## Future developments
+
+The following features are considered for future developments, in order to improve the website and enhance user experience:
+
+1.  Add slide feature to the Gallery page.
+2.  Add a blog page with information about Spain, popular wedding venues in the country and wedding trends.
+3.  Add additional page to the website with videos of past events.
+4.  Add an FAQ page.
+
+
 
 
 
