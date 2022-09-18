@@ -68,8 +68,52 @@ The following features are considered for future developments, in order to impro
 3.  Add additional page to the website with videos of past events.
 4.  Add an FAQ page.
 
+## Testing
+
+**Functional**
+
+-  Navigation bar was tested to ensure that Home, Gallery and Contact Us links work for users to access every page of the website.  Homepage can also be accessed through a click to **The Wedding Planner** logo. 
+-  Sound bar available in the main image of the homepage tested.
+-  Social media links in the footer were tested in the three pages of the website to ensure that they correctly open in a new browser window.
+
+Functional testing was deemed to be completed successfully.
+
+**Responsive user experience**
 
 
+**Code validator testing**
+
+HTML and CSS code were validated through W3C, Jigsaw and Lighthouse validators tools, with the following results:
+
+*W3C*
+
+-Index file:
+
+![Indexvalidation](assets/readmeimg/indexvalidation.jpg)
+
+-Gallery:
+
+![Galleryvalidation](assets/readmeimg/galleryvalidation.jpg)
+
+-Contact Us:
+
+![ContactUsvalidation](assets/readmeimg/contactusvalidation.jpg)
+
+*Jigsaw*
+
+-CSS file:
+
+![Cssvalidation](assets/readmeimg/cssvalidation.jpg)
+
+*Lighthouse (Dev Tools)*
+
+-For desktop:
+
+![Lighthousedesktop](assets/readmeimg/lighthousedesktop.jpg)
+
+-For mobilephone:
+
+![Lighthousemobile](assets/readmeimg/lighthousemobile.jpg)
 
 
 
