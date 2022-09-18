@@ -84,8 +84,29 @@ The following features are considered for future developments, in order to impro
 
 **Responsive user experience**
 
+-  Tested the responsive design with break points of: 1200px, 1024px, 740px and 320px using Chrome dev tool.
 
+-  Testing was completed on the following devices: desktop, laptop, Ipad Mini and Samsung A51.
 
+-  Home page required various styling adjustments of navigation bar, main image and main content for the above break points.  
+
+-  Gallery page of the website has the best responsive design in all devices.
+
+-  Contact Us page required a level of adjustments for some of the break points to ensure correct ratio of the contact form and background image on screens.
+
+Although updates were performed after testing of the responsive design, there are still additional changes possible in order to improve the overall user experience.
+
+**Bugs**
+
+*Fixed:*
+
+-  Througout the responsive design development and testing, there were a number of bugs identified which were subsequently resolved through adjustment in CSS styling.
+
+*Unfixed:*
+
+-  It was identified that in Ipad Mini, the audio control in the main image does not allow the user to unmute.  Therefore, the music can not be listed to.
+
+-  At certain resolutions, the navigation bar links may move on the top of each other incorrectly.
 
 **Code validator testing**
 
@@ -93,31 +114,31 @@ HTML and CSS code were validated through W3C, Jigsaw and Lighthouse validators t
 
 *W3C*
 
--Index file:
+-  Index file:
 
 ![Indexvalidation](assets/readmeimg/indexvalidation.jpg)
 
--Gallery:
+-  Gallery:
 
 ![Galleryvalidation](assets/readmeimg/galleryvalidation.jpg)
 
--Contact Us:
+-  Contact Us:
 
 ![ContactUsvalidation](assets/readmeimg/contactusvalidation.jpg)
 
 *Jigsaw*
 
--CSS file:
+-  CSS file:
 
 ![Cssvalidation](assets/readmeimg/cssvalidation.jpg)
 
 *Lighthouse (Dev Tools)*
 
--For desktop:
+-  For desktop:
 
 ![Lighthousedesktop](assets/readmeimg/lighthousedesktop.jpg)
 
--For mobilephone:
+-  For mobilephone:
 
 ![Lighthousemobile](assets/readmeimg/lighthousemobile.jpg)
 
