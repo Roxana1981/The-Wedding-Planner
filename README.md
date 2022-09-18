@@ -20,9 +20,9 @@ Being a commercial website, the aim is to attract potential customers and let th
 ## Website design 
 **The Wedding Planner** is a website thought to be easy to navigate and visually appealing.  
 
--**Structure**: It consists of 3 pages (Homepage, Gallery, and a Contact Us page), with a navigational bar and footer to access social media channels in separate tabs.
+-**Structure**: It consists of 3 pages (Homepage, Gallery, and a Contact Us page), with a navigation bar and footer to access social media channels in separate tabs.
 
--**Colours and background**: Colours of the page are mainly white, light grey and pastel shades, which compliment well with the hero/main image of the site as well as with the gallery photos and image used as background of the Contact Us page.  Colours and background of the site are taught to be of a relaxing shade and elegant.
+-**Colours and background**: Colours of the website are mainly white, light grey and pastel shades, which compliment well with the hero/main image of the site as well as with the gallery photos and image used as background of the Contact Us page.  Colours and background of the site are taught to be of a relaxing shade and elegant.
 
 -**Typography**: Font Barlow imported from Google Fonts. 
 
@@ -32,7 +32,7 @@ Being a commercial website, the aim is to attract potential customers and let th
 
 **Navigation bar**
 
-The navigation bar consists of the name of the company at the top left and links to the Gallery and Contact Us pages.  
+The navigation bar consists of the name of the company at the top left and links to Home, Gallery and Contact Us pages.  
 End users can return to the homepage through the company logo or through the Home link.
 
 ![Navbar](assets/readmeimg/navbar.jpg)
@@ -80,7 +80,9 @@ The following features are considered for future developments, in order to impro
 **Functional**
 
 -  Navigation bar was tested to ensure that Home, Gallery and Contact Us links work for users to access every page of the website.  Homepage can also be accessed through a click to **The Wedding Planner** logo. 
+
 -  Sound bar available in the main image of the homepage tested.
+
 -  Social media links in the footer were tested in the three pages of the website to ensure that they correctly open in a new browser window.
 
 **Responsive user experience**
@@ -105,7 +107,7 @@ Although updates were performed after testing of the responsive design, there ar
 
 *Unfixed:*
 
--  It was identified that in Ipad Mini, the audio control in the main image does not allow the user to unmute.  Therefore, the music can not be listed to.
+-  It was identified that in Ipad Mini, the audio control in the main image does not allow the user to unmute.  Therefore, the music can not be listened to.
 
 -  At certain resolutions, the navigation bar links may move on the top of each other incorrectly.
 
