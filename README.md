@@ -76,9 +76,9 @@ The following features are considered for future developments, in order to impro
 -  Sound bar available in the main image of the homepage tested.
 -  Social media links in the footer were tested in the three pages of the website to ensure that they correctly open in a new browser window.
 
-Functional testing was deemed to be completed successfully.
-
 **Responsive user experience**
+
+
 
 
 **Code validator testing**
@@ -114,6 +114,20 @@ HTML and CSS code were validated through W3C, Jigsaw and Lighthouse validators t
 -For mobilephone:
 
 ![Lighthousemobile](assets/readmeimg/lighthousemobile.jpg)
+
+
+## Deployment
+
+The code was deployed through Github.  Steps followed for the deployment were:
+
+1. Access repository section in Github platform.
+2. Go to the project to be deployed.
+3. Navigate to settings.
+3. Select pages section.
+4. Within "Build and Deployment" section, select the source "deploy from a branch", branch to be marked as “main” and folder as “root”. 
+5. Click Save.
+5. After few seconds, site was confirmed to be live at: https://roxana1981.github.io/The-Wedding-Planner/
+
 
 
 
