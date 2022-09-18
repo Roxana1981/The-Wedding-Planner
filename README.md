@@ -128,6 +128,43 @@ The code was deployed through Github.  Steps followed for the deployment were:
 5. Click Save.
 5. After few seconds, site was confirmed to be live at: https://roxana1981.github.io/The-Wedding-Planner/
 
+## Credits
+
+**Content**
+
+Inspiration for the theme of the website came from the following businesses of wedding planning:
+
+-[spain4weddings](https://www.spain4weddings.com/)
+
+-[peachperfectweddings](https://peachperfectweddings.com)
+
+-[maruanderson](https://maruanderson.com)
+
+**Code**
+
+The development of the website was inspired by Love Running project of the Code Institute.  
+Throughout the development of the project, the below resourses were accessed to assist me with some the code:
+
+-[Audio to a webpage tutorial](https://www.youtube.com/watch?v=d5cHhIv35HI)
+
+-[Audio element](https://www.w3schools.com/html/html5_audio.asp)
+
+-[CSS buttons](https://www.w3schools.com/css/css3_buttons.asp)
+
+**Images**
+
+All photos of the website by Gillian Harrison from Pexels:
+https://www.pexels.com/@gillian-harrison-3071696/
+
+**Audio**
+
+-Look Both Ways by Nathan Moore sourced from Youtube studio.  No copyright music.
+
+## Acknowledgements
+
+I would like to thank the Code Institute for the opportunity of learning HTML and CSS languages in the first module of the Diploma, and to my mentor Harry Dhillon for the guidance and support.
+
+
 
 
 
