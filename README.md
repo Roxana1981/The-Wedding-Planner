@@ -18,3 +18,8 @@ The website was created for completion of the first Milestone Project for the So
 -**Colours and background**: Colours of the page are mainly white, light grey and pastel shades, which compliment well with the hero/main image of the site as well as with the gallery photos and image used as background of the “Contact Us” page.  Colours and background of the site are taught to be of a relaxing shade and elegant.
 
 -**Typography**: Font Barlow imported from Google Fonts. 
+
+## Website features 
+
+### Homepage
+![Navbar](assets/readmeimg/navbar.jpg)
