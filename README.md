@@ -10,6 +10,12 @@ The website was created for completion of the first Milestone Project for the So
 
 ## User experience design 
 
+The target audience for this website are users who wish to have their wedding in Spain and need assistance in planning, organizing, and executing the event. 
+
+The key objective of the website is to provide a user friendly experience, through a smooth navigation and access to information.  
+
+Being a commercial website, the aim is to attract potential customers and let them engage easily with the business. 
+
 ## Website design 
 **The Wedding Planner** is a website thought to be easy to navigate and visually appealing.  
 
