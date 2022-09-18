@@ -22,4 +22,28 @@ The website was created for completion of the first Milestone Project for the So
 ## Website features 
 
 ### Homepage
+
+**Navigation bar**
+
+The navigation bar consists of the name of the company at the top left and links to the "Gallery" and “Contact Us” pages.  
+End users can go back to the homepage through the company logo or through the homepage link.
+
 ![Navbar](assets/readmeimg/navbar.jpg)
+
+**Main image**
+
+The main image in the homepage has embedded an audio control bar at the top left.
+
+**Main section**
+
+The main section of the homepage contains the slogan of the brand "Your dream wedding under the sun of Spain" and three key sections which contain "About us", "Services" and "Testimonies" about the company.
+
+![Mainsection](assets/readmeimg/mainsection.jpg)
+
+**Footer**
+
+The footer reflects the icons for end users to visit the brand's Facebook, Instagram and Youtube accounts.  Each of them opening in new browser windows.
+
+![Footer](assets/readmeimg/footer.jpg)
+
+
